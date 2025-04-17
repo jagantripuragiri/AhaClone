@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    margin: 0px;
+}
+
+.carousel-indicators li {
+    background-color: transparent;
+    /* Remove background color */
+    border: none;
+    /* Remove border */
+    width: 10px;
+    /* Set width */
+    height: 10px;
+    /* Set height */
+    margin: 0 5px;
+    /* Add some margin between dots */
+    border-radius: 50%;
+    /* Make it a circle */
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    /* Ensure it's above other content */
+
+}
+
+.main_page {
+    background-size: cover;
+    width: 100%;
+    background-color: #1B1212;
+
+}
+
+.aha_logo {
+    width: 50px;
+    height: 25px;
+    margin: 12px;
+}
+
+.tophead {
+    height: cover;
+    overflow: auto;
+}
+
+.main_nav_el {
+    margin: 25px;
+    color: #DFDEDE;
+}
+
+h1 {
+    color: white;
+    margin: 20px;
+    font-size: 25px;
+}
+
+.new_relese_elements_container {
+    margin: 24px;
+    overflow-x: scroll;
+
+}
+
+.mtp {
+    margin: 24px;
+    overflow-x: scroll;
+
+
+}
+
+.mtp_s {
+    margin-right: 9px;
+}
+
+h3 {
+    color: white;
+    margin: 2px;
+    font-size: 16px;
+}
+
+.h4 {
+    color: white;
+    margin: 2px;
+    font-size: 19px;
+    text-align: left;
+
+}
+
+.h5 {
+    color: #8A8783;
+    margin: 2px;
+    text-align: left;
+    font-size: 13px;
+    font-family: sans-serif;
+
+
+}
+
+.foot {
+    line-height: 200%;
+}
+
+.image_1 {
+    height: 280px;
+    width: 180px;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+.aha_logof {
+    width: 50px;
+    height: 25px;
+    margin: 12px;
+}
+
+.logom {
+    width: 2px;
+}
+
+.footer {
+    width: 100%;
+    overflow: auto;
+}
